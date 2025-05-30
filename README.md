@@ -1,2 +1,2 @@
 # LLD
-My Solutions to common LLD problems
+Practicing low level design problems.
