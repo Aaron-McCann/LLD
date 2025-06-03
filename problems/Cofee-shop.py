@@ -23,3 +23,12 @@ class Espresso(Coffee):
 
     def get_cost(self):
         return 1.99
+    
+
+class BlackCofee(Coffee):
+    def __init__(self):
+        super().__init__()
+        self.description = "BlackCofee"
+
+    def get_cost(self):
+        return 2
